@@ -32,7 +32,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'jquery-rails'
 gem 'jquery-ui-rails'
 #gem 'bootstrap-sass', '~> 3.3.7'
-gem 'bootstrap', '~> 4.1.3'
+gem 'bootstrap', '~> 4.3.1'
 
 gem 'lightbox2-rails'
 
